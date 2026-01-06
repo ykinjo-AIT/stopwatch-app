@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  text-align: center;
+  margin-top: 100px;
+}
+.container {
+  background: white;
+  padding: 40px;
+  border-radius: 10px;
+  display: inline-block;
+}
+#display {
+  font-size: 48px;
+  margin: 20px 0;
+}
+button {
+  font-size: 18px;
+  margin: 5px;
+  padding: 10px 20px;
+}
